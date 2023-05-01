@@ -12,6 +12,6 @@ Also to segment the customers based on their purchasing behavior.
 
 Dataset:
 
-The dataset which is being used in the project is online_retail.csv
+The dataset which is being used in the project is [online_retail.csv](https://drive.google.com/file/d/12_VAq6w3V64v71WnkpblGvK6ugF-LEYv/view?usp=share_link)
 
 The dataset contains 387961 rows and 8 columns.
